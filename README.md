@@ -22,10 +22,10 @@
 ## Project 11
   0x0A. Python - Inheritance
 ## Project 12
-  0x0B. Python - Input/Output
+  0x0B. Python - Input/Output.
 ## Project 13
   0x0C. Python - Almost a circle
 ## Project 14
-  0x12. JavaScript - Warm up
+  0x12. JavaScript - Warm up.
 ## Project 15
-  0x0F. Python - Object-relational mapping
+  0x0F. Python - Object-relational mapping.
